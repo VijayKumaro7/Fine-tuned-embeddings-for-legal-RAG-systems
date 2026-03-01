@@ -288,11 +288,11 @@ train_loss = losses.CosineSimilarityLoss(model)
 
 ## 🙋 About
 
-Built by **Vijay** — Service Desk Analyst Trainee at Cognizant, aspiring ML Engineer.
+Built by **Vijay Kumar** —  aspiring ML Engineer.
 
 This project demonstrates deep understanding of why embeddings matter in production RAG systems, and how domain adaptation is the highest-leverage optimization available.
 
-**Connect:** [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/vijay-kumar070/) • [GitHub](https://github.com/VijayKumaro7/Fine-tuned-embeddings-for-legal-RAG-systems)
 
 ---
 
